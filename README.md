@@ -1,2 +1,1 @@
-# docker.io_redmine
-sync docker.io/library/redmine
+sync docker.io/library/redmine:4.2.0
